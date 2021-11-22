@@ -49,10 +49,10 @@ export default function NavBar() {
                         </div>
                     </ul>
                     <ul className="hidden lg:flex space-x-3">
-                        <Link className="text-3xl font-poppins text-white hover:text-gray-600" to="/">Beranda</Link>
-                        <Link className="text-3xl font-poppins text-white hover:text-gray-600" to="/students">Murid</Link>
-                        <Link className="text-3xl font-poppins text-white hover:text-gray-600" to="/activity">Kegiatan</Link>
-                        <Link className="text-3xl font-poppins text-white hover:text-gray-600" to="/schedule">Jadwal</Link>                    </ul>
+                        <Link className="text-3xl font-poppins text-white hover:text-gray-400" to="/">Beranda</Link>
+                        <Link className="text-3xl font-poppins text-white hover:text-gray-400" to="/students">Murid</Link>
+                        <Link className="text-3xl font-poppins text-white hover:text-gray-400" to="/activity">Kegiatan</Link>
+                        <Link className="text-3xl font-poppins text-white hover:text-gray-400" to="/schedule">Jadwal</Link>                    </ul>
                 </nav>
             </div>
 
