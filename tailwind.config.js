@@ -28,7 +28,8 @@ module.exports = {
       pink: colors.pink,
       blueFont: "#272727",
       background: "#272727",
-      card: "#C4C4C4"
+      card: "#C4C4C4",
+      card2: "#464646"
     },
     spacing: {
       px: '1px',

@@ -1,0 +1,99 @@
+[
+    {
+        "hari": "Senin",
+        "jadwal": [
+            {
+                "pelajaran": "Mtk",
+                "waktu": "dari jam 7 sampe jam 10",
+                "note": ""
+            },
+            {
+                "pelajaran": "Ipa / biologi",
+                "waktu": "Jam 10 sampe jam 12",
+                "note": ""
+            },
+            {
+                "pelajaran": "kimia",
+                "waktu": "dari jam 12 sampe jam 2",
+                "note": ""
+            },
+            {
+                "pelajaran": "fisika",
+                "waktu": "dari jam 2 sampe jam 4, mati dah lu",
+                "note": ""
+            },
+            {
+                "pelajaran": "Mtk Wajib aja udah",
+                "waktu": "jam 4 sampe jam 6",
+                "note": ""
+            },
+            {
+                "pelajaran": "Mtk",
+                "waktu": "dari jam 7 sampe jam 10",
+                "note": ""
+            },
+            {
+                "pelajaran": "Ipa / biologi",
+                "waktu": "Jam 10 sampe jam 12",
+                "note": ""
+            },
+            {
+                "pelajaran": "kimia",
+                "waktu": "dari jam 12 sampe jam 2",
+                "note": ""
+            },
+            {
+                "pelajaran": "fisika",
+                "waktu": "dari jam 2 sampe jam 4, mati dah lu",
+                "note": ""
+            },
+            {
+                "pelajaran": "Mtk",
+                "waktu": "dari jam 7 sampe jam 10",
+                "note": ""
+            },
+            {
+                "pelajaran": "Ipa / biologi",
+                "waktu": "Jam 10 sampe jam 12",
+                "note": ""
+            },
+            {
+                "pelajaran": "kimia",
+                "waktu": "dari jam 12 sampe jam 2",
+                "note": ""
+            },
+            {
+                "pelajaran": "fisika",
+                "waktu": "dari jam 2 sampe jam 4, mati dah lu",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "hari": "Selasa",
+        "jadwal": [
+            {
+                "pelajaran": "tobat ngebucin",
+                "waktu": "Tahun ini",
+                "note": "bucin aja terus bang"
+            },
+            {
+                "pelajaran": "mencintai dia",
+                "waktu": "Gak pernah",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "hari": "Rabu",
+        "jadwal": []
+    },
+    {
+        "hari": "Kamis",
+        "jadwal": []
+    },
+    {
+        "hari": "Jumat",
+        "jadwal": []
+    }
+]
