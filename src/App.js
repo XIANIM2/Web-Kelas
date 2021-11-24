@@ -14,7 +14,7 @@ function App() {
         <Route path="/students" element={Murid()} />
         <Route path="/schedule" element={Jadwal()} />
         <Route path="/activity" element={Activity()} />
-        <Route path="*" element={MissingPage()} />
+        <Route path="*" element={MissingPage} />
       </Routes>
       <Footer />
     </BrowserRouter>
