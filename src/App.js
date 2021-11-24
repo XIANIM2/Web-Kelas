@@ -1,6 +1,5 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Footer from "./components/footer";
-import Progress from "./components/progress";
 import MissingPage from "./pages/404";
 import Home from "./pages/home";
 import Jadwal from "./pages/jadwal";
