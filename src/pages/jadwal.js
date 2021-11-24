@@ -1,5 +1,5 @@
 import NavBar from "../components/navBar";
-import jadwal from "./jadwal.json";
+import jadwal from "../json/jadwal.json";
 
 export default function Jadwal() {
     const Data = [];
@@ -10,6 +10,7 @@ export default function Jadwal() {
                     onClick={
                         function showSchedule() {
                             document.getElementById('view').classList.add("hidden");
+                            document.getElementById('title').classList.add("hidden");
                             document.getElementById('back').classList.remove("hidden")
                             var elements = document.getElementsByClassName(x.hari);
                             for (var i = 0; i < elements.length; i++) {
@@ -32,8 +33,8 @@ export default function Jadwal() {
                 <div className={`${x.hari} schedule p-3 hidden space-y-1 mt-4`}>
                     <div className="p-5 bg-card2 rounded-md">
                         <h1 className="font-bold text-white text-xl font-poppins">{y.pelajaran}</h1>
-                        <p className="text-white font-mono mt-3">{`Jam pelajaran: ${y.waktu}`}</p>
-                        <p className="text-white text-sm mt-6 font-thin">{y.note ? `Note: ${y.note}` : ''}</p>
+                        <p className="font-mono mt-3 text-gray-200">{`Jam pelajaran: ${y.waktu}`}</p>
+                        <p className="text-gray-200 text-sm mt-6 font-thin">{y.note ? `Note: ${y.note}` : ''}</p>
                     </div>
                 </div>
             )
@@ -44,9 +45,9 @@ export default function Jadwal() {
         <>
             <NavBar />
 
-            <div className="ml-10 mt-6 lg:ml-16">
+            <div id="title" className="ml-10 mr-10 mt-6 lg:ml-16 lg:mr-16">
                 <h1 className="text-white text-2xl lg:text-3xl font-poppins font-bold">
-                    Jadwal
+                    Jadwal Kegiatan PAS
                 </h1>
                 <p className="text-white text-sm lg:text-base mt-5">
                     Jadwal pada minggu ini dari hari Senin sampai hari Jumat
@@ -62,6 +63,7 @@ export default function Jadwal() {
             <div className="lg:p-12">
                 <button id="back" className="hidden p-3 text-white font-poppins text-2xl" onClick={
                     function hideSchedule() {
+                        document.getElementById('title').classList.remove("hidden");
                         document.getElementById('view').classList.remove("hidden");
                         document.getElementById('back').classList.add("hidden")
                         var elements = document.getElementsByClassName('schedule');
