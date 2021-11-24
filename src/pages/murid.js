@@ -6,8 +6,8 @@ export default function Murid() {
     murid.forEach(x => Data.push(
         <div className="bg-card rounded-md">
             <div className="mt-auto mb-auto space-x-4 flex p-5">
-                <img className="rounded-xl" src={x.foto ? `/data/images/${x.foto}` : '/data/images/default.jpeg'} alt="profil" height="100px" width="100px"></img>
-                <div className="font-mono text-xs lg:text-lg lg:mt-0.5">
+                <div className="flex-initial bg-cover h-20 w-20 bg-center rounded-md" style={{ backgroundImage: `url(${x.foto ? `/data/images/${x.foto}` : '/data/images/default.jpeg'})` }}></div>
+                <div className="flex-initial font-mono text-xs lg:text-lg lg:mt-0.5">
                     <p key={x.nama}><span key={x.nama} className="font-semibold">Nama: </span>{`${x.nama}`}</p>
                     <p key={x.absen}><span key={x.absen} className="font-semibold">Absen: </span>{`${x.absen ? x.absen : '-'}`}</p>
                     <p key={x.gender}><span key={x.gender} className="font-semibold">Jenis Kelamin: </span>{`${x.gender ? x.gender : '-'}`}</p>
