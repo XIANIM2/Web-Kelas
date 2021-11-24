@@ -5,5 +5,12 @@
         "nama": "Masih kosong disini",
         "gender": "",
         "birth": ""
+    },
+    {
+        "foto": "test.png",
+        "absen": "",
+        "nama": "Example",
+        "gender": "",
+        "birth": ""
     }
 ]
