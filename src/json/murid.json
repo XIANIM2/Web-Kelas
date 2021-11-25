@@ -1,9 +1,240 @@
 [
     {
-        "foto": "test.png",
-        "absen": "Null",
-        "nama": "Null",
-        "gender": "Null",
-        "birth": "Null"
+        "foto": "",
+        "absen": "1",
+        "nama": "Airel",
+        "gender": "Laki - Laki",
+        "birth": ""
+    },
+    {
+        "foto": "",
+        "absen": "2",
+        "nama": "Akira",
+        "gender": "Laki - Laki",
+        "birth": ""
+    },
+    {
+        "foto": "",
+        "absen": "3",
+        "nama": "Alvin",
+        "gender": "Laki - Laki",
+        "birth": ""
+    },
+    {
+        "foto": "",
+        "absen": "4",
+        "nama": "Angie",
+        "gender": "Perempuan",
+        "birth": ""
+    },
+    {
+        "foto": "",
+        "absen": "5",
+        "nama": "Lachrist",
+        "gender": "Laki - Laki",
+        "birth": ""
+    },
+    {
+        "foto": "",
+        "absen": "6",
+        "nama": "Bere",
+        "gender": "Laki - Laki",
+        "birth": ""
+    },
+    {
+        "foto": "",
+        "absen": "7",
+        "nama": "Conna",
+        "gender": "Perempuan",
+        "birth": ""
+    },
+    {
+        "foto": "",
+        "absen": "8",
+        "nama": "Corinthia",
+        "gender": "Perempuan",
+        "birth": ""
+    },
+    {
+        "foto": "",
+        "absen": "9",
+        "nama": "Eclessia",
+        "gender": "Perempuan",
+        "birth": ""
+    },
+    {
+        "foto": "",
+        "absen": "10",
+        "nama": "Elvis",
+        "gender": "Laki - Laki",
+        "birth": ""
+    },
+    {
+        "foto": "",
+        "absen": "11",
+        "nama": "Erick",
+        "gender": "Laki - Laki",
+        "birth": "16-09-2005"
+    },
+    {
+        "foto": "",
+        "absen": "12",
+        "nama": "Jeanice",
+        "gender": "Perempuan",
+        "birth": ""
+    },
+    {
+        "foto": "",
+        "absen": "13",
+        "nama": "Joel",
+        "gender": "Laki - Laki",
+        "birth": ""
+    },
+    {
+        "foto": "",
+        "absen": "14",
+        "nama": "Jovian",
+        "gender": "Laki - Laki",
+        "birth": ""
+    },
+    {
+        "foto": "",
+        "absen": "15",
+        "nama": "Kenji",
+        "gender": "Laki - Laki",
+        "birth": ""
+    },
+    {
+        "foto": "",
+        "absen": "16",
+        "nama": "Louisa",
+        "gender": "Perempuan",
+        "birth": ""
+    },
+    {
+        "foto": "",
+        "absen": "17",
+        "nama": "Melvin",
+        "gender": "Laki - Laki",
+        "birth": ""
+    },
+    {
+        "foto": "",
+        "absen": "18",
+        "nama": "Michael",
+        "gender": "Laki - Laki",
+        "birth": ""
+    },
+    {
+        "foto": "",
+        "absen": "19",
+        "nama": "Carla",
+        "gender": "Perempuan",
+        "birth": ""
+    },
+    {
+        "foto": "",
+        "absen": "20",
+        "nama": "Michelle Jeane",
+        "gender": "Perempuan",
+        "birth": ""
+    },
+    {
+        "foto": "",
+        "absen": "21",
+        "nama": "Nathan",
+        "gender": "Laki - Laki",
+        "birth": ""
+    },
+    {
+        "foto": "",
+        "absen": "22",
+        "nama": "Pascalis",
+        "gender": "Laki - Laki",
+        "birth": ""
+    },
+    {
+        "foto": "",
+        "absen": "23",
+        "nama": "Paulus",
+        "gender": "Laki - Laki",
+        "birth": ""
+    },
+    {
+        "foto": "",
+        "absen": "24",
+        "nama": "Richy",
+        "gender": "Laki - Laki",
+        "birth": ""
+    },
+    {
+        "foto": "",
+        "absen": "25",
+        "nama": "Rowen",
+        "gender": "",
+        "birth": ""
+    },
+    {
+        "foto": "",
+        "absen": "26",
+        "nama": "Sandy",
+        "gender": "Laki - Laki",
+        "birth": ""
+    },
+    {
+        "foto": "",
+        "absen": "27",
+        "nama": "Sean",
+        "gender": "Laki - Laki",
+        "birth": ""
+    },
+    {
+        "foto": "",
+        "absen": "28",
+        "nama": "Sella",
+        "gender": "Perempuan",
+        "birth":""
+    },
+    {
+        "foto": "",
+        "absen": "29",
+        "nama": "Shien",
+        "gender": "Perempuan",
+        "birth": ""
+    },
+    {
+        "foto": "",
+        "absen": "30",
+        "nama": "Stevan",
+        "gender": "Laki - Laki",
+        "birth": ""
+    },
+    {
+        "foto": "",
+        "absen": "31",
+        "nama": "Teguh",
+        "gender": "Laki - Laki",
+        "birth": ""
+    },
+    {
+        "foto": "",
+        "absen": "32",
+        "nama": "Vincent",
+        "gender": "Laki - Laki",
+        "birth": ""
+    },
+    {
+        "foto": "",
+        "absen": "33",
+        "nama": "Yessia",
+        "gender": "Perempuan",
+        "birth": ""
+    },
+    {
+        "foto": "",
+        "absen": "34",
+        "nama": "Yoga",
+        "gender": "Laki - Laki",
+        "birth": ""
     }
 ]
