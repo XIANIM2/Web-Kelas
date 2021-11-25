@@ -50,7 +50,6 @@ export default function NavBar() {
                     </ul>
                     <ul className="hidden lg:flex space-x-3">
                         <Link className="text-3xl font-poppins text-white hover:text-gray-400" to="/">Beranda</Link>
-                        <Link className="text-3xl font-poppins text-white hover:text-gray-400" to="/students">Murid</Link>
                         <Link className="text-3xl font-poppins text-white hover:text-gray-400" to="/activity">Kegiatan</Link>
                         <Link className="text-3xl font-poppins text-white hover:text-gray-400" to="/schedule">Jadwal</Link>                    </ul>
                 </nav>
@@ -59,7 +58,6 @@ export default function NavBar() {
             <div id="navbar" className="hidden lg:hidden">
                 <div className="h-auto bg-card p-4 grid text-center space-y-2">
                     <Link className="text-2xl font-mono text-black hover:text-gray-600" to="/">Beranda</Link>
-                    <Link className="text-2xl font-mono text-black hover:text-gray-600" to="/students">Murid</Link>
                     <Link className="text-2xl font-mono text-black hover:text-gray-600" to="/activity">Kegiatan</Link>
                     <Link className="text-2xl font-mono text-black hover:text-gray-600" to="/schedule">Jadwal</Link>
                 </div>

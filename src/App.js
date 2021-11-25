@@ -11,7 +11,6 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/students" element={<Murid />} />
         <Route path="/schedule" element={<Jadwal />} />
         <Route path="/activity" element={<Activity />} />
         <Route path="*" element={<MissingPage />} />
