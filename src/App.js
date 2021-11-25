@@ -4,7 +4,6 @@ import MissingPage from "./pages/404";
 import Home from "./pages/home";
 import Jadwal from "./pages/jadwal";
 import Activity from "./pages/kegiatan";
-import Murid from "./pages/murid";
 
 function App() {
   return (
