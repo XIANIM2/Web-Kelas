@@ -1,16 +1,240 @@
 [
     {
         "foto": "",
-        "absen": "30",
-        "nama": "Masih kosong disini",
-        "gender": "",
-        "birth": ""
+        "absen": "1",
+        "nama": "Airel Hutani Tirtawinata",
+        "gender": "Laki - Laki",
+        "birth": "03-03-2005"
     },
     {
-        "foto": "test.png",
-        "absen": "",
-        "nama": "Example",
-        "gender": "",
-        "birth": ""
+        "foto": "",
+        "absen": "2",
+        "nama": "Akira Heracles Pramana",
+        "gender": "Laki - Laki",
+        "birth": "16-12-2003"
+    },
+    {
+        "foto": "",
+        "absen": "3",
+        "nama": "Alvin Parista Valentino",
+        "gender": "Laki - Laki",
+        "birth": "22-09-2003"
+    },
+    {
+        "foto": "",
+        "absen": "4",
+        "nama": "Angelina Arifin",
+        "gender": "Perempuan",
+        "birth": "14-10-2005"
+    },
+    {
+        "foto": "",
+        "absen": "5",
+        "nama": "Benedictus Lachrist Andriano Rievera",
+        "gender": "Laki - Laki",
+        "birth": "19-10-2005"
+    },
+    {
+        "foto": "",
+        "absen": "6",
+        "nama": "Bereatly Manuella",
+        "gender": "Laki - Laki",
+        "birth": "06-12-2003"
+    },
+    {
+        "foto": "",
+        "absen": "7",
+        "nama": "Conna Yekholya",
+        "gender": "Perempuan",
+        "birth": "16-08-2005"
+    },
+    {
+        "foto": "",
+        "absen": "8",
+        "nama": "Corinthia Giovani",
+        "gender": "Perempuan",
+        "birth": "12-04-2005"
+    },
+    {
+        "foto": "",
+        "absen": "9",
+        "nama": "Eclessia Armelovita",
+        "gender": "Perempuan",
+        "birth": "18-06-2005"
+    },
+    {
+        "foto": "",
+        "absen": "10",
+        "nama": "Elvis Tarsa Halawa",
+        "gender": "Laki - Laki",
+        "birth": "08-02-2004"
+    },
+    {
+        "foto": "",
+        "absen": "11",
+        "nama": "Erick Septri Dharma Soetrisno Putra",
+        "gender": "Laki - Laki",
+        "birth": "16-09-2005"
+    },
+    {
+        "foto": "",
+        "absen": "12",
+        "nama": "Jeanice Chayla Nyuki",
+        "gender": "Perempuan",
+        "birth": "15-05-2005"
+    },
+    {
+        "foto": "",
+        "absen": "13",
+        "nama": "Joel Christo Paliama",
+        "gender": "Laki - Laki",
+        "birth": "05-05-2005"
+    },
+    {
+        "foto": "",
+        "absen": "14",
+        "nama": "Jovian Crespo Depi",
+        "gender": "Laki - Laki",
+        "birth": "12-07-2006"
+    },
+    {
+        "foto": "",
+        "absen": "15",
+        "nama": "Kenji Pranatajaya",
+        "gender": "Laki - Laki",
+        "birth": "03-04-2005"
+    },
+    {
+        "foto": "",
+        "absen": "16",
+        "nama": "Louisa Natasha Nugrohanto",
+        "gender": "Perempuan",
+        "birth": "28-04-2005"
+    },
+    {
+        "foto": "",
+        "absen": "17",
+        "nama": "Melvin Youpiter",
+        "gender": "Laki - Laki",
+        "birth": "06-12-2003"
+    },
+    {
+        "foto": "",
+        "absen": "18",
+        "nama":  "Michael Nathaniel Darmawan",
+        "gender": "Laki - Laki",
+        "birth": "31-10-2003"
+    },
+    {
+        "foto": "",
+        "absen": "19",
+        "nama": "Michelle Carla Vianto",
+        "gender": "Perempuan",
+        "birth": "02-12-2004"
+    },
+    {
+        "foto": "",
+        "absen": "20",
+        "nama": "Michelle Jeanne Tanzil",
+        "gender": "Perempuan",
+        "birth": "07-09-2005"
+    },
+    {
+        "foto": "",
+        "absen": "21",
+        "nama": "Nathaniel Alvin Cahyadi",
+        "gender": "Laki - Laki",
+        "birth": "24-03-2005"
+    },
+    {
+        "foto": "",
+        "absen": "22",
+        "nama": "Pascalis Brian Hendayanto",
+        "gender": "Laki - Laki",
+        "birth": "07-01-2004"
+    },
+    {
+        "foto": "",
+        "absen": "23",
+        "nama": "Paulus Winata",
+        "gender": "Laki - Laki",
+        "birth": "13-08-2005"
+    },
+    {
+        "foto": "",
+        "absen": "24",
+        "nama": "Richy Shan Tenggara",
+        "gender": "Laki - Laki",
+        "birth": "05-08-2005"
+    },
+    {
+        "foto": "",
+        "absen": "25",
+        "nama": "Rowen Praira Putra Irawan",
+        "gender": "Laki - Laki",
+        "birth": "01-12-2004"
+    },
+    {
+        "foto": "",
+        "absen": "26",
+        "nama": "Sandy Wijaya",
+        "gender": "Laki - Laki",
+        "birth": "30-09-2005"
+    },
+    {
+        "foto": "",
+        "absen": "27",
+        "nama": "Sean Jeremyas Yael",
+        "gender": "Laki - Laki",
+        "birth": "17-04-2005"
+    },
+    {
+        "foto": "",
+        "absen": "28",
+        "nama": "Sella Dezkiena",
+        "gender": "Perempuan",
+        "birth": "01-12-2005"
+    },
+    {
+        "foto": "",
+        "absen": "29",
+        "nama": "Shien Alicia Tenggara",
+        "gender": "Perempuan",
+        "birth": "30-06-2005"
+    },
+    {
+        "foto": "",
+        "absen": "30",
+        "nama": "Stevan Vincent",
+        "gender": "Laki - Laki",
+        "birth": "08-02-2005"
+    },
+    {
+        "foto": "",
+        "absen": "31",
+        "nama": "Teguh Salim",
+        "gender": "Laki - Laki",
+        "birth": "05-07-2005"
+    },
+    {
+        "foto": "",
+        "absen": "32",
+        "nama": "Vincent Colin Hermawan",
+        "gender": "Laki - Laki",
+        "birth": "18-09-2005"
+    },
+    {
+        "foto": "",
+        "absen": "33",
+        "nama": "Yessia Saksana",
+        "gender": "Perempuan",
+        "birth": "08-03-2005"
+    },
+    {
+        "foto": "",
+        "absen": "34",
+        "nama": "Yoga Andika Dwi Satria",
+        "gender": "Laki - Laki",
+        "birth": "30-09-2005"
     }
 ]
